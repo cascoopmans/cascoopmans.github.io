@@ -3,7 +3,6 @@ title: "What oscillations can do for syntax depends on your theory of structure 
 collection: publications
 category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ""#'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-07-07
 venue: 'Nature Reviews Neuroscience'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

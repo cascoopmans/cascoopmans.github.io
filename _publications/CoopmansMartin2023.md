@@ -3,7 +3,6 @@ title: "Prosody vs. syntax, or prosody and syntax? Evaluating accounts of delta-
 collection: publications
 category: bookchapters
 #permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ""#'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-10-10
 #venue: 'The Linguistic Review'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
