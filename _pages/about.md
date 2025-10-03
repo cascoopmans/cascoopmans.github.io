@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-I am a cognitive (neuro)scientist studying how languages are structured, processed and represented in the human brain. I am particularly interested in the combinatorial properties of language – how complex meanings emerge from the structural combination of smaller linguistic units. In my research I use a variety of experimental methods, varying from state-of-the art neuroimaging analyses to old-school armchair linguistics. 
+I am a cognitive (neuro)scientist studying how languages are structured, processed and represented in the human brain. I am particularly interested in the combinatorial properties of language – how complex meanings emerge from the structural combination of smaller linguistic units. In my research I use a variety of experimental methods, varying from state-of-the art neuroimaging analyses to old-school armchair linguistics.
 
 I am a postdoctoral researcher at New York University, working with David Poeppel. My current research is about the relationship between syntax and prosody in the brain. Specifically, I investigate how our brains use prosody – the rhythms of speech – to infer the syntactic structure of spoken utterances.
 
