@@ -85,11 +85,11 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles' 
+  bookchapters:
+    title: 'Book chapters'       
   conferences:
     title: 'Conference Papers'
-  bookchapters:
-    title: 'Book chapters'
   registeredreports:
     title: 'Registered Reports'        
 
