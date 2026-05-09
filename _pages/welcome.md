@@ -17,8 +17,9 @@ author_profile: true
 Hi there, I am a cognitive scientist interested in the structure and processing of human language. I am currently a postdoctoral fellow at NYU, working with [David Poeppel](https://as.nyu.edu/psychology/people/faculty.david-poeppel.html).
 
 <br>
+<br>
 
-# News
+## News
 
 - March 2026: I presented a [poster](https://hsp2026.org/posters/upload_48.pdf) at the the _Annual Conference on Human Sentence Processing_ (HSP), held at MIT in Boston. 
 - September 2025: I presented two posters at the _Annual Meeting of the Society for the Neurobiology of Language_ (SNL), held at Gallaudet University in Washington, DC.
