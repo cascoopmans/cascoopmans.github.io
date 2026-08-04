@@ -12,6 +12,8 @@ author_profile: true
 
 #Before moving to New York, I was a postdoc at the Donders Center for Cognitive Neuroimaging in Nijmegen. I got my PhD from the Max Planck Institute for Psycholinguistics, under the supervision of Peter Hagoort, Andrea E. Martin, and Helen de Hoop. You can read my disssertation [here](https://repository.ubn.ru.nl/handle/2066/290384).
 
+# Old:
+#- September 2025: I presented two posters at the _Annual Meeting of the Society for the Neurobiology of Language_ (SNL), held at Gallaudet University in Washington, DC.
 ---
 
 Hi there, I am a cognitive scientist interested in the structure and processing of human language. I am currently a postdoctoral fellow at NYU, working with [David Poeppel](https://as.nyu.edu/psychology/people/faculty.david-poeppel.html).
@@ -21,5 +23,5 @@ Hi there, I am a cognitive scientist interested in the structure and processing 
 
 ## News
 
+- Grant news! 🎉 I received a [Veni grant](https://www.nwo.nl/en/news/205-researchers-receive-veni-grants) from NWO to study the neural basis of combinatoriality in language and visual narratives. The work will start in 2027 at the MPI for Psycholinguistics in Nijmegen, NL. 
 - March 2026: I presented a [poster](https://hsp2026.org/posters/upload_48.pdf) at the the _Annual Conference on Human Sentence Processing_ (HSP), held at MIT in Boston. 
-- September 2025: I presented two posters at the _Annual Meeting of the Society for the Neurobiology of Language_ (SNL), held at Gallaudet University in Washington, DC.
