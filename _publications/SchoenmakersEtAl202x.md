@@ -8,7 +8,7 @@ category: registeredreports
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: '/files/.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Schoenmakers, G., <b>Coopmans, C. W.</b> & de Swart, P. (In-Principle Acceptance). With(out) a trace: Trace reactivation in Dutch A-scrambling. <i>Linguistics.</i>'
+citation: 'Schoenmakers, G., <b>Coopmans, C. W.</b> & de Swart, P. With(out) a trace: Trace reactivation in Dutch A-scrambling. Accepted as Registered Report in <i>Linguistics.</i>'
 
 
 ---
