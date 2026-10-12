@@ -23,5 +23,6 @@ Hi there, I am a cognitive scientist interested in the structure and processing 
 
 ## News
 
+- New paper! 🎉 Our paper with Peter Hagoort and Yingying Tan was accepted in _Psychological Science_. With behavioral experiments and eye tracking, we studied the role of hierarchical structure in language interpretation, looking at Mandarin Chinese.  
 - Grant news! 🎉 I received a [Veni grant](https://www.nwo.nl/en/news/205-researchers-receive-veni-grants) from NWO to study the neural basis of combinatoriality in language and visual narratives. The work will start in 2027 at the MPI for Psycholinguistics in Nijmegen, NL. 
-- March 2026: I presented a [poster](https://hsp2026.org/posters/upload_48.pdf) at the the _Annual Conference on Human Sentence Processing_ (HSP), held at MIT in Boston. 
+- March 2026: I presented a [poster](https://drive.google.com/file/d/1BQjyHEo0nbBSpk-_9dOR7kEIz1EGBfXg/view?usp=sharing) at the Conference on Human Sentence Processing (HSP), held at MIT in Boston. 
